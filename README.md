@@ -29,3 +29,4 @@ gmailの設定
 - MAIL_USERNAMEはgmailのメルアド。
 - MAIL_PASSWORDはアプリパスワード。
 
+ちょっと変えてみるねん
